@@ -31,5 +31,8 @@
 			"Name": "OnlineServicesNull",
 			"Enabled": true
 		}
+	],
+	"TargetPlatforms": [
+		"Windows"
 	]
 }
